@@ -21,7 +21,10 @@
 
 ## 📌 Featured Projects
 
-[![NTUST](https://github-readme-stats.vercel.app/api/pin/?username=Scar0615&repo=NTUST)](https://github.com/Scar0615/NTUST)
+**[NTUST](https://github.com/Scar0615/NTUST)** — 台科大研究所修課作業與專題整理
+
+![Top Language](https://img.shields.io/github/languages/top/Scar0615/NTUST?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Scar0615/NTUST?style=flat-square)
 
 ## 📫 Contact
 
