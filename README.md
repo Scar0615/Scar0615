@@ -26,6 +26,11 @@
 ![Top Language](https://img.shields.io/github/languages/top/Scar0615/NTUST?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/Scar0615/NTUST?style=flat-square)
 
+**[NTNU](https://github.com/Scar0615/NTNU)** — 大學時期,所有有接觸到程式的課程中寫過的程式
+
+![Top Language](https://img.shields.io/github/languages/top/Scar0615/NTNU?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/Scar0615/NTNU?style=flat-square)
+
 ## 📫 Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-eric900615%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eric900615@gmail.com)
